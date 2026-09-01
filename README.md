@@ -1,2 +1,2 @@
-# jmine13.github.io
+# junichiromine.github.io
 Website of ISGRAPH.JP
